@@ -68,16 +68,7 @@ export default function Home() {
               Full Stack Software Engineer
             </h3>
             <p className="text-sm py-5 text-gray-400 leading-6 max-w-xl mx-auto md:text-md">
-              Horem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu
-              turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus
-              nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum
-              tellus elit sed risus. Maecenas eget condimentum velit, sit amet
-              feugiat lectus. Class aptent taciti sociosqu ad litora torquent
-              per conubia nostra, per inceptos himenaeos. Praesent auctor purus
-              luctus enim egestas, ac scelerisque ante pulvinar. Donec ut
-              rhoncus ex. Suspendisse ac rhoncus nisl, eu tempor urna. Curabitur
-              vel bibendum lorem. Morbi convallis convallis diam sit amet
-              lacinia. Aliquam in elementum tellus.
+              Welcome to the professional portfolio and website of Hiranye Vithanage, a dedicated undergraduate Full Stack Software Engineer passionate about crafting robust and innovative digital solutions. Dive into a world where creativity meets functionality, where every line of code is meticulously crafted to bring ideas to life.As an undergraduate Full Stack Software Engineer, Hiranye brings a unique blend of theoretical knowledge and hands-on experience to the table. With a keen eye for detail and a hunger for continuous learning, Hiranye specializes in developing end-to-end web applications that seamlessly integrate front-end and back-end technologies.Explore Hiranye's projects to witness the fusion of cutting-edge design principles with efficient coding practices. From dynamic user interfaces to scalable server-side architectures, each project showcases Hiranye's commitment to excellence and his ability to tackle complex technical challenges with finesse.Whether you're a fellow developer seeking inspiration, a potential client looking for tailored software solutions, or an employer in search of top talent, Hiranye's website offers insights into his skills, expertise, and professional journey.Join Hiranye Vithanage on a journey through the world of software engineering, where innovation knows no bounds and every line of code tells a story of creativity and ingenuity.
             </p>
           </div>
           {/* social media */}
